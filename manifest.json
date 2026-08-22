@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "Professional Transport Management System",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "TRANSPORT",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Transport",
+  "start_url": "/",
+  "theme_color": "#c92929"
+}
